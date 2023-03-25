@@ -55,6 +55,27 @@ Top 5 Application Cities          | Top 5 Cities By Selection Ratio
 Apparently, for every month in 2019, New York, NY have the highest number of applicants for data analyst job **(4,650)** and as well the most hired in term of headcount **(1,015)**. The displayed 5 cities top the table when compared against the overall received applications for the year but apparently, reverse is the case when compared to the level of rejection.
 
 ### Hire-Rejection Ratio:
-Selection Ratio                 | Hire Rejection Ratio
-:------------------------------:|:----------------------------:
-![](Tooltip_Selction_Ratio.PNG  | ![](Hire_Rejection_Ratio.PNG)
+#### Comparison
+Top Cities by Selection Ratio                 | Top Cities by Hire Rejection Ratio
+:--------------------------------------------:|:----------------------------:
+![](Tooltip_Selection_Ratio.png)              | ![](Hire_Rejection_Ratio.png)
+
+The selection ratio took into consideration the hired and the overall received applications which might not actually be the right indicator when compared to the hire-rejection ratio which set the total number hired against the total number rejected as evident in the above image. The selection ratio ranked New York, NY above others because it hired approximately 1k applicants of 4.7k total applicants but the hire-rejection ratio ranked Novato, CA because 8 out of 14 total applications were hired. This means they have more hired than rejection and this portray to certain extent quality of application.
+
+### _Most In-demand Data Analyst Job_
+![](In_Demand_Job_Title.PNG)
+
+### _Top 3 Cities for each In-demand Job Title_
+![](In_Demand_Cities.PNG)
+
+Of the approximately 7k total hired in 2019, Digital Marketing Data Analyst Hired **1,820** applicants which makes it the most sort after in the top 3 cities of **New York, NY, Chicago, IL and San Francisco, CA**.
+
+## Conclusion:
+- New York have the highest number of applicants as well as the total number hired in the 2019 data analyst job application
+- Novato, CA have the most quality applicants considering the hire-rejection ratio
+- Digital Marketing Data Analyst is the most sort after analyst job title in most of the United States cities.
+
+## Recommendation: 
+For robust analytics, the datasets should include the demographic of the applicant to discover the gender with the most involvement and to deduce the average age of applicants. The included demographic was added subjectively because it seems relevant to draw a robust conclusion.  Also, the datasets of the previous years will be required for comparison so as to bring to light the trends in data analyst job.
+
+## Thanks for reading :+1:
